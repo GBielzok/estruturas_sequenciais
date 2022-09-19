@@ -6,7 +6,7 @@ package exercicio;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class exc3 {
+public class exc2 {
 
 	public static void main(String[] args) {
 		
